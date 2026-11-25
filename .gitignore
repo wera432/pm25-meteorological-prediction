@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+data/
+*.grib
+*.grib2
+*.nc
+*.nc4
+*.parquet
+*.csv
+*.zip
